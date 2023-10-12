@@ -1,0 +1,83 @@
+.portfolio{font-family: times new roman;}
+
+body{background-color:#EEF5DB;
+}
+
+
+#header{background-color:aqua;
+  margin: 0px;
+  padding: 10px;
+  text-align: center;
+font-weight: bolder;}
+
+
+#photocenter{margin:20px 50px 20px 350px;
+  margin-right: 50px;
+  padding-right: 30px;
+}
+
+#about{text-align:justify;
+  color:#FD7282;
+  font-size: 20px;
+  font-weight: lighter;
+  font-family:georgia;
+}
+
+h3{text-transform: capitalize;
+  text-align: center;
+  color:blue;
+  font-weight: bolder;
+  font-size: 20px;
+  font-family: times new roman;
+}
+
+
+#intro{font-family: times new roman;
+  text-align: justify;
+  font-weight: bolder;
+  font-size: 30px;
+  
+}
+
+h2{text-align: justify;
+  color:blue;
+  text-transform: capitalize;
+  
+}
+
+#hobby{font-weight:  bolder;
+  font-size: 30px;
+}
+
+#footer{background-color:aqua;
+  color:solid black;
+  font-weight: bolder;
+  text-align: center;
+padding:2px;}
+
+#project{font-weight: bolder;
+  text-transform: capitalize;
+  font-size: 30px;
+}
+
+
+
+h1{font-size: 30px;
+  color:black;
+  font-weight: bolder;
+  text-align: justify;
+}
+
+
+
+#p1{text-align: center;
+  text-transform:capitalize;
+  font-size: 40px;
+  font-weight: bolder;
+  color:green;
+}
+
+#experience{font-weight: bolder;
+  text-transform: capitalize;
+  font-size: 30px;
+}
